@@ -14,6 +14,6 @@ echo "callense por favor amigas ";
 
 
 
-echo "Ayer te vi, con OScar fatima, gran topason que tenian";
+echo "Arturo gay";
 
 
