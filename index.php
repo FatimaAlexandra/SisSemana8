@@ -16,5 +16,3 @@ echo "callense por favor amigas ";
 
 echo "Arturo gay";
 echo "No sirve esta onda";
-
-
